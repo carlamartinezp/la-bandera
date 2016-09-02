@@ -1,0 +1,22 @@
+/* Escribe tu css aqui */
+p{
+	background-color: yellow;
+	width: 300px;
+	height: 100px;
+	margin: 7px;
+	display: inline;
+	border: 4px;
+	padding: 10px;
+	
+}
+.parrafo{
+	background-color: red;
+	width: 300px;
+	height: 100px;
+	border: 4px;
+	margin: 7px;
+    padding: 10px;
+	
+}
+
+
